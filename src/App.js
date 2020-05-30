@@ -28,7 +28,7 @@ function App() {
             <div>Page1</div>
           </Route>
           <Route path="/page2">
-          <div>Page1</div>
+          <div>Page2</div>
           </Route>
           <Route path="/">
             <header className="App-header">
